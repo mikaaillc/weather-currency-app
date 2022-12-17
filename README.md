@@ -1,4 +1,4 @@
-Belirli Bir şehir için hava durumu saat gösteren uygulama api kullanılarak gerçekleştirildi.
+Belirli Bir şehir için hava durumu saat gösteren uygulama api kullanılarak gerçekleştirildi. Anlık dolar euro ve altın değerleri gösterildi.
 
 
 # Getting Started with Create React App
