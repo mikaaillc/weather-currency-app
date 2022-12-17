@@ -1,3 +1,6 @@
+Belirli Bir şehir için hava durumu saat gösteren uygulama api kullanılarak gerçekleştirildi.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
